@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/car-store/static/css/main.7ed89791.css",
+    "main.js": "/car-store/static/js/main.c302ead0.js",
+    "static/media/profile.jpg": "/car-store/static/media/profile.d48841852018416d4bb1.jpg",
+    "static/media/Feature.jpg": "/car-store/static/media/Feature.7ad94893bbef87bdbda8.jpg",
+    "static/media/neon-car.jpg": "/car-store/static/media/neon-car.200d796a0115a23efcb2.jpg",
+    "static/media/404.png": "/car-store/static/media/404.7248fb23a50646c45cc1.png",
+    "static/media/bootstrap-icons.woff?": "/car-store/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/brands.jpg": "/car-store/static/media/brands.f839fd10d628d378dbd9.jpg",
+    "static/media/bootstrap-icons.woff2?": "/car-store/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/vazir.ttf": "/car-store/static/media/vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/f2.jpg": "/car-store/static/media/f2.224db362813e8821ebc4.jpg",
+    "static/media/a1.jpg": "/car-store/static/media/a1.bb3ef78572a79705cb3d.jpg",
+    "static/media/f1.jpg": "/car-store/static/media/f1.eeb672226217244f7d7c.jpg",
+    "static/media/key.png": "/car-store/static/media/key.eb22d3c2f50a925911b2.png",
+    "static/media/s1.jpg": "/car-store/static/media/s1.94f9e68afc21ffead09e.jpg",
+    "static/media/proposal-icon.svg": "/car-store/static/media/proposal-icon.856bc8ba6bfe8ccd2675c6a5ff9a4988.svg",
+    "index.html": "/car-store/index.html",
+    "main.7ed89791.css.map": "/car-store/static/css/main.7ed89791.css.map",
+    "main.c302ead0.js.map": "/car-store/static/js/main.c302ead0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed89791.css",
+    "static/js/main.c302ead0.js"
+  ]
+}
