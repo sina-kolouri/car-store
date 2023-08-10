@@ -1,0 +1,62 @@
+.holder {
+  margin: 10px 0px 10px 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.holder-content {
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px 0px rgb(74, 74, 74);
+  padding: 30px;
+  background-color: rgb(235, 235, 235);
+}
+
+.title-orders {
+  color: rgb(225, 225, 225);
+  background-color: rgb(61, 122, 88);
+  padding: 3px 30px;
+  border: 1px solid rgb(126, 126, 126);
+  border-radius: 10px;
+  margin: 10px;
+}
+
+@media (max-width: 575px) {
+  .holder {
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 484px) {
+  .holder-content {
+    width: 320px;
+  }
+}
+
+@media (max-width: 450px) {
+  .holder-content {
+    width: 300px;
+  }
+}
+
+@media (max-width: 430px) {
+  .holder-content {
+    width: 280px;
+  }
+}
+
+@media (max-width: 415px) {
+  .holder-content {
+    width: 260px;
+  }
+}
+
+@media (max-width: 390px) {
+  .holder-content {
+    width: 240px;
+  }
+}
